@@ -1,18 +1,134 @@
-# 💫 About Me:
-# Hey, I'm Aayush Vanzara 👋<br><br>💻 Developer who thinks like a PM  <br>🤖 Building AI applications, agents, and workflow automations  <br>🚀 Turning business problems into software that actually ships  <br>🎓 BBA in Information Technology @ SICSR, Symbiosis International University  <br>🏅 SAP Certified Generative AI Developer (C_AIG)<br><br> Tech Stack<br>- Languages: Python, JavaScript, C++<br>- Backend: Node.js, Django, Express<br>- Databases: MongoDB, PostgreSQL, SQL<br>- AI: LLMs, AI Agents, Prompt Engineering, Workflow Automation<br>- Tools: Git, GitHub, Docker, AWS<br><br> Currently Exploring<br>- Agentic AI and multi-agent systems<br>- AI orchestration and context management<br>- Production-ready AI applications<br>- Intelligent business process automation<br><br> My Philosophy<br>> AI is cool. Solving a real problem is cooler.<br><br> Let's Connect<br>- LinkedIn: https://www.linkedin.com/in/aayush-vanzara-167209282/<br>- Fiverr: https://www.fiverr.com/aayushkv21<br>- Portfolio: https://aayush-portfolio-snowy.vercel.app
+<!-- HEADER -->
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Aayush%20Vanzara&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Developer%20who%20thinks%20like%20a%20PM&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Aayush Vanzara banner" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the.akv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aayush Vanzara) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Aayush Vanzara) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanzara.aayush@gmail.com) 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=640&lines=Building+AI+applications+%26+agents;Automating+real+business+workflows;Turning+business+problems+into+software+that+ships;SAP+Certified+Generative+AI+Developer" alt="Typing intro" />
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=akv-creates&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=akv-creates&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=akv-creates&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
----
-[![](https://komarev.com/ghpvc/?username=akv-creates&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://aayush-portfolio-snowy.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-vanzara-167209282/)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/aayushkv21)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/the.akv)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanzara.aayush@gmail.com)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://komarev.com/ghpvc/?username=akv-creates&label=Profile%20views&color=8B5CF6&style=flat-square" alt="Profile views" />
+
+</div>
+
+<br/>
+
+## 👋 About Me
+
+```text
+💻  Developer who thinks like a PM
+🤖  Building AI applications, agents, and workflow automations
+🚀  Turning business problems into software that actually ships
+🎓  BBA in Information Technology @ SICSR, Symbiosis International University
+🏅  SAP Certified Generative AI Developer (C_AIG)
+```
+
+> **AI is cool. Solving a real problem is cooler.**
+
+<br/>
+
+## 🔭 Currently Exploring
+
+| 🧠 Focus | 📌 What I'm digging into |
+| :-- | :-- |
+| **Agentic AI** | Multi-agent systems and how agents coordinate |
+| **AI Orchestration** | Context management across models and tools |
+| **Production AI** | Moving from demo to reliable, shippable applications |
+| **Automation** | Intelligent business process automation |
+
+<br/>
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,c,cs,html,r&theme=dark" alt="Languages" />
+</p>
+
+**Backend & APIs**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi&theme=dark" alt="Backend" />
+</p>
+
+**Frontend & Mobile**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" alt="Frontend" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query" />
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,prisma,cassandra,firebase&theme=dark" alt="Databases" />
+</p>
+
+**AI, ML & Data**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,matplotlib,powerbi&theme=dark" alt="AI and Data" />
+</p>
+
+**Big Data & Pipelines**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kafka,spark,hadoop,airflow&theme=dark" alt="Big Data" />
+  <img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" alt="Hive" />
+</p>
+
+**Cloud & DevOps**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github,gitlab,githubactions,vercel,netlify&theme=dark" alt="Cloud and DevOps" />
+</p>
+
+**Design, Tools & Hardware**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ai,ae,notion,jira,trello,arduino&theme=dark" alt="Design and Tools" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio" />
+</p>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=akv-creates&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=akv-creates&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=false&count_private=false" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=akv-creates&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+<br/>
+
+## 🤝 Let's Connect
+
+I'm open to conversations about **AI applications, agents, and workflow automation**. If you have a real problem that needs software, reach out:
+
+- 📬 [vanzara.aayush@gmail.com](mailto:vanzara.aayush@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aayush-vanzara-167209282/)
+- 🧑‍💻 [Fiverr](https://www.fiverr.com/aayushkv21)
+- 🌐 [Portfolio](https://aayush-portfolio-snowy.vercel.app)
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=110&section=footer" width="100%" alt="Footer" />
+
+</div>
